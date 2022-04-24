@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dina Akila</h1>
-<h3 align="center">A passionate Backend Developer || Laravel & WordPress from Gaza</h3>
+<h3 align="center">A Passionate Backend Developer || Laravel & WordPress from Gaza</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinaakiladev&label=Profile%20views&color=0e75b6&style=flat" alt="dinaakiladev" /> </p>
 
